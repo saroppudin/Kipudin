@@ -1,0 +1,38 @@
+{
+  "name": "Kipudin.com",
+  "short_name": "Kipudin",
+  "start_url": "https://www.kipudin.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Menyajikan artikel seputar android, service laptop/komputer, cara memperbaiki printer dan update informasi terkini dunia teknologi.",
+  "icons": [{
+    "src": "https://lh3.googleusercontent.com/-YDE_4JsIP84/XI8xDgXXLgI/AAAAAAAAgIE/5fsFVzzPLbMRRlnltO6U896jr_1q3KSpQCLcBGAs/s48/favicon%2B192.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-YDE_4JsIP84/XI8xDgXXLgI/AAAAAAAAgIE/5fsFVzzPLbMRRlnltO6U896jr_1q3KSpQCLcBGAs/s72/favicon%2B192.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-YDE_4JsIP84/XI8xDgXXLgI/AAAAAAAAgIE/5fsFVzzPLbMRRlnltO6U896jr_1q3KSpQCLcBGAs/s96/favicon%2B192.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-YDE_4JsIP84/XI8xDgXXLgI/AAAAAAAAgIE/5fsFVzzPLbMRRlnltO6U896jr_1q3KSpQCLcBGAs/s144/favicon%2B192.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-YDE_4JsIP84/XI8xDgXXLgI/AAAAAAAAgIE/5fsFVzzPLbMRRlnltO6U896jr_1q3KSpQCLcBGAs/s168/favicon%2B192.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-YDE_4JsIP84/XI8xDgXXLgI/AAAAAAAAgIE/5fsFVzzPLbMRRlnltO6U896jr_1q3KSpQCLcBGAs/s192/favicon%2B192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://lh3.googleusercontent.com/-O649MLnR98I/XI8xDv0aLBI/AAAAAAAAgIA/NmLNLPhBKGkyHalII2h301NX0XAqX7rAQCLcBGAs/s512/logo%2Bkipudin.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
