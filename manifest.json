@@ -1,0 +1,38 @@
+{
+  "name": "Creatulis",
+  "short_name": "Creatulis",
+  "start_url": "https://creatulis.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#21409A",
+  "description": "I Write my all.",
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-8VD0oFjCc0g/Xh3Bjywth-I/AAAAAAAAAF0/Tc39P4hxtcY1cxuQEKl4CX75AECU6w-awCLcBGAsYHQ/s48/logo%2Bcreatulis.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-8VD0oFjCc0g/Xh3Bjywth-I/AAAAAAAAAF0/Tc39P4hxtcY1cxuQEKl4CX75AECU6w-awCLcBGAsYHQ/s72/logo%2Bcreatulis.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-8VD0oFjCc0g/Xh3Bjywth-I/AAAAAAAAAF0/Tc39P4hxtcY1cxuQEKl4CX75AECU6w-awCLcBGAsYHQ/s98/logo%2Bcreatulis.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-8VD0oFjCc0g/Xh3Bjywth-I/AAAAAAAAAF0/Tc39P4hxtcY1cxuQEKl4CX75AECU6w-awCLcBGAsYHQ/s144/logo%2Bcreatulis.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-8VD0oFjCc0g/Xh3Bjywth-I/AAAAAAAAAF0/Tc39P4hxtcY1cxuQEKl4CX75AECU6w-awCLcBGAsYHQ/s168/logo%2Bcreatulis.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-8VD0oFjCc0g/Xh3Bjywth-I/AAAAAAAAAF0/Tc39P4hxtcY1cxuQEKl4CX75AECU6w-awCLcBGAsYHQ/s192/logo%2Bcreatulis.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-8VD0oFjCc0g/Xh3Bjywth-I/AAAAAAAAAF0/Tc39P4hxtcY1cxuQEKl4CX75AECU6w-awCLcBGAsYHQ/s512/logo%2Bcreatulis.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
